@@ -1,7 +1,5 @@
 # smolagents-party-planning-agent-for-batman
 
-# SmolaGents Code Agents: Technical Implementation Guide
-
 ## Technical Overview
 
 SmolaGents Code Agents provides a comprehensive framework for building, deploying, and monitoring code-executing AI agents. This implementation is based on the Jupyter notebook `code_agents.ipynb` from the Hugging Face Agents Course, featuring a practical demonstration where an agent (Alfred, Batman's butler) plans a party at Wayne Mansion by writing and executing Python code to solve complex problems.
